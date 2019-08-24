@@ -1,0 +1,452 @@
+MultiMC version: 0.6.7-1375
+
+
+Minecraft folder is:
+C:/Users/inthe/Desktop/MultiMC/instances/1.10.2/.minecraft
+
+
+Java path is:
+C:/Program Files (x86)/Common Files/Oracle/Java/javapath/javaw.exe
+
+
+Java is version 1.8.0_221, using 32-bit architecture.
+
+
+Your Java architecture is not matching your system architecture. You might want to install a 64bit Java version.
+
+
+Main Class:
+  net.minecraft.client.main.Main
+
+Native path:
+  C:/Users/inthe/Desktop/MultiMC/instances/1.10.2/natives
+
+Libraries:
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/mojang/authlib/1.5.22/authlib-1.5.22.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/mojang/realms/1.9.8/realms-1.9.8.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/com/mojang/minecraft/1.10.2/minecraft-1.10.2-client.jar
+
+Native libraries:
+  C:/Users/inthe/Desktop/MultiMC/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+  C:/Users/inthe/Desktop/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+
+Params:
+  --username  --version MultiMC5 --gameDir C:/Users/inthe/Desktop/MultiMC/instances/1.10.2/.minecraft --assetsDir C:/Users/inthe/Desktop/MultiMC/assets --assetIndex 1.10 --uuid  --accessToken  --userType  --versionType release
+
+Window size: 854 x 480
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms1280m, -Xmx1280m, -Duser.language=en]
+
+
+Minecraft process ID: 9976
+
+
+Using onesix launcher.
+
+[05:41:13] [Client thread/INFO]: Setting user: CCtheQueen
+[05:41:15] [Client thread/INFO]: LWJGL Version: 2.9.4
+[05:41:16] [Client thread/INFO]: Reloading ResourceManager: Default
+[05:41:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[05:41:22] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[05:41:22] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[05:41:22] [Thread-5/INFO]: OpenAL initialized.
+[05:41:22] [Sound Library Loader/INFO]: Sound engine started
+[05:41:23] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[05:41:30] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[05:41:30] [Server thread/INFO]: Generating keypair
+[05:41:30] [Server thread/INFO]: Preparing start region for level 0
+[05:41:31] [Server thread/INFO]: Preparing spawn area: 11%
+[05:41:32] [Server thread/INFO]: Preparing spawn area: 19%
+[05:41:33] [Server thread/INFO]: Preparing spawn area: 30%
+[05:41:34] [Server thread/INFO]: Preparing spawn area: 39%
+[05:41:35] [Server thread/INFO]: Preparing spawn area: 47%
+[05:41:36] [Server thread/INFO]: Preparing spawn area: 56%
+[05:41:37] [Server thread/INFO]: Preparing spawn area: 64%
+[05:41:38] [Server thread/INFO]: Preparing spawn area: 75%
+[05:41:39] [Server thread/INFO]: Preparing spawn area: 84%
+[05:41:40] [Server thread/INFO]: Preparing spawn area: 92%
+[05:41:42] [Server thread/INFO]: Changing view distance to 8, from 10
+[05:41:43] [Server thread/INFO]: CCtheQueen[local:E:689f3c36] logged in with entity id 986 at (252.5, 77.0, 216.5)
+[05:41:43] [Server thread/INFO]: CCtheQueen joined the game
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.OutOfMemoryError
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.OutOfMemoryError
+	at sun.misc.Unsafe.allocateMemory(Native Method) ~[?:1.8.0_221]
+	at java.nio.DirectByteBuffer.<init>(Unknown Source) ~[?:1.8.0_221]
+	at java.nio.ByteBuffer.allocateDirect(Unknown Source) ~[?:1.8.0_221]
+	at bcw.c(SourceFile:41) ~[minecraft-1.10.2-client.jar:?]
+	at bnt.<init>(SourceFile:43) ~[minecraft-1.10.2-client.jar:?]
+	at bnv.<init>(SourceFile:19) ~[minecraft-1.10.2-client.jar:?]
+	at bqt.<init>(SourceFile:63) ~[minecraft-1.10.2-client.jar:?]
+	at boh.a(SourceFile:477) ~[minecraft-1.10.2-client.jar:?]
+	at boh.a(SourceFile:458) ~[minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:2208) ~[minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:2167) ~[minecraft-1.10.2-client.jar:?]
+	at bll.a(SourceFile:273) ~[minecraft-1.10.2-client.jar:?]
+	at gw.a(SourceFile:76) ~[minecraft-1.10.2-client.jar:?]
+	at gw.a(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:1468) ~[minecraft-1.10.2-client.jar:?]
+	at gl.a(SourceFile:54) ~[minecraft-1.10.2-client.jar:?]
+	at gl.a(SourceFile:9) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:781) ~[minecraft-1.10.2-client.jar:?]
+	at hz.a(SourceFile:32) ~[minecraft-1.10.2-client.jar:?]
+	at hz.a(SourceFile:9) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:1284) ~[minecraft-1.10.2-client.jar:?]
+	at hb.a(SourceFile:72) ~[minecraft-1.10.2-client.jar:?]
+	at hb.a(SourceFile:9) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:501) ~[minecraft-1.10.2-client.jar:?]
+	at hn.a(SourceFile:32) ~[minecraft-1.10.2-client.jar:?]
+	at hn.a(SourceFile:9) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bln.a(SourceFile:236) ~[minecraft-1.10.2-client.jar:?]
+	at go.a(SourceFile:42) ~[minecraft-1.10.2-client.jar:?]
+	at bll.a(SourceFile:828) ~[minecraft-1.10.2-client.jar:?]
+	at go.a(SourceFile:38) ~[minecraft-1.10.2-client.jar:?]
+	at go.a(SourceFile:11) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:560) ~[minecraft-1.10.2-client.jar:?]
+	at he.a(SourceFile:57) ~[minecraft-1.10.2-client.jar:?]
+	at he.a(SourceFile:10) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:962) ~[minecraft-1.10.2-client.jar:?]
+	at gh.a(SourceFile:49) ~[minecraft-1.10.2-client.jar:?]
+	at gh.a(SourceFile:11) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:46) [minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:960) [minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+Caused by: java.lang.NullPointerException
+	at bll.a(SourceFile:914) ~[minecraft-1.10.2-client.jar:?]
+	at gj.a(SourceFile:31) ~[minecraft-1.10.2-client.jar:?]
+	at gj.a(SourceFile:11) ~[minecraft-1.10.2-client.jar:?]
+	at fl$1.run(SourceFile:13) ~[minecraft-1.10.2-client.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_221]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_221]
+	at h.a(SourceFile:45) ~[minecraft-1.10.2-client.jar:?]
+	... 11 more
+[05:41:44] [Client thread/FATAL]: Unreported exception thrown!
+java.lang.NullPointerException
+	at aid.a(SourceFile:1179) ~[minecraft-1.10.2-client.jar:?]
+	at bnz.h(SourceFile:1597) ~[minecraft-1.10.2-client.jar:?]
+	at bnz.a(SourceFile:1186) ~[minecraft-1.10.2-client.jar:?]
+	at bnz.b(SourceFile:1171) ~[minecraft-1.10.2-client.jar:?]
+	at bnz.a(SourceFile:1018) ~[minecraft-1.10.2-client.jar:?]
+	at bcx.av(SourceFile:991) ~[minecraft-1.10.2-client.jar:?]
+	at bcx.a(SourceFile:396) [minecraft-1.10.2-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [minecraft-1.10.2-client.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_221]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_221]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_221]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 8/25/19 5:41 AM
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at aid.a(SourceFile:1179)
+	at bnz.h(SourceFile:1597)
+	at bnz.a(SourceFile:1186)
+	at bnz.b(SourceFile:1171)
+	at bnz.a(SourceFile:1018)
+	at bcx.av(SourceFile:991)
+	at bcx.a(SourceFile:396)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at aid.a(SourceFile:1179)
+	at bnz.h(SourceFile:1597)
+	at bnz.a(SourceFile:1186)
+	at bnz.b(SourceFile:1171)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 0 total; []
+	Chunk stats: MultiplayerChunkCache: 0, 0
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (8,64,8), Chunk: (at 8,4,8 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 3 game time, 3 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 0 total; []
+	Retry entities: 0 total; []
+	Server brand: ~~ERROR~~ NullPointerException: null
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at bln.a(SourceFile:364)
+	at bcx.b(SourceFile:2535)
+	at bcx.a(SourceFile:410)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_221, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 943621656 bytes (899 MB) / 1297481728 bytes (1237 MB) up to 1297481728 bytes (1237 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms1280m -Xmx1280m
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Launched Version: MultiMC5
+	LWJGL: 2.9.4
+	OpenGL: AMD Radeon(TM) RX Vega 11 Graphics GL version 4.6.13558 Compatibility Profile Context 26.20.11016.1, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Probably not. Jar signature remains and client brand is untouched.
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 8x AMD Ryzen 5 2400G with Radeon Vega Graphics 
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\inthe\Desktop\MultiMC\instances\1.10.2\.minecraft\crash-reports\crash-2019-08-25_05.41.44-client.txt
+AL lib: (EE) alc_cleanup: 1 device not closed
+Process exited with code -1.
+MultiMC: Log upload triggered at: 25 Aug 2019 05:43:07 -0500
